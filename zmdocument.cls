@@ -46,7 +46,7 @@
 \AppendGraphicsExtensions{.svg}
 
 \RequirePackage[bookmarks=true,hyperindex=true,bookmarksopen=true,bookmarksnumbered=true]{hyperref}
-\RequirePackage[thmmarks,amsmath,hyperref]{ntheorem}
+\RequirePackage[amsmath,hyperref]{ntheorem}
 \RequirePackage[hyperrefcolorlinks]{menukeys}
 
 %%% BOX
